@@ -67,7 +67,7 @@ To establish a baseline for your classifier, we look at the performance of a Maj
 
 ***Based on the distribution of your training data:***
 
-**"No" (Did not subscribe): ~88.73% **
+**"No" (Did not subscribe): ~88.73%**
 
 **"Yes" (Subscribed): ~11.27%**
 
