@@ -80,3 +80,5 @@ The Accuracy Trap: Any model that achieves an accuracy lower than or equal to 88
 
 Beyond Accuracy: Because the dataset is imbalanced (only ~11% subscribed), accuracy alone is not a sufficient metric. While the baseline accuracy is high, the baseline Recall for the "yes" class is 0%. A useful business model must aim to beat the 88.7% accuracy while specifically maximizing the identification of the "yes" subscribers through metrics like F1-Score, Precision, and Recall.
 
+
+                    
