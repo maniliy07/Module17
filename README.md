@@ -1,6 +1,8 @@
 # Module17
 **Required Assignment 17.1: Comparing Classifiers**
 
+https://github.com/maniliy07/Module17/blob/main/prompt_III.ipynb
+
 Our dataset comes from the UCI Machine Learning repository [link](https://archive.ics.uci.edu/ml/datasets/bank+marketing).  The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns.  We will make use of the article accompanying the dataset [here](CRISP-DM-BANK.pdf) for more information on the data and features.
 
 The business objective of this task is to optimize the effectiveness of a Portuguese banking institution's direct marketing campaigns. Specifically, the goal is to:
